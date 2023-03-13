@@ -1,0 +1,16 @@
+{
+  "name": "openmct-plan-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js > plan.json"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.29.4",
+    "random-words": "^1.3.0"
+  }
+}
